@@ -8,8 +8,8 @@
 
 clc;
 
-coverFile  = 'image2.png';
-secretFile = 'secret_small.png';   % use 'secrett.png' to check the original
+coverFile  = 'image1.png';
+secretFile = 'image2.png';   
 
 HEADER_BYTES = 18;
 
