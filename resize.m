@@ -3,8 +3,8 @@
 
 clc;
 
-coverFile  = 'image2.png';
-secretFile = 'image1.png';
+coverFile  = 'image1.png';
+secretFile = 'image2.png';
 
 outSecret = 'secret_small.png';
 
