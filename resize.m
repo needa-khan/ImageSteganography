@@ -1,5 +1,5 @@
 % resize.m
-% Shrinks the secret image just enough to fit inside the cover image,
+% Shrinks the secret image just enough to fit inside the cover image
 
 clc;
 
